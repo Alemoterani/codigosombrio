@@ -1,59 +1,71 @@
 {
   "tipo": "radar",
   "categoria": "Ética e regulação",
-  "data": "2026-08-25",
-  "titulo_interno": "A régua legal da IA começa a valer",
+  "tema": "AI Act europeu entra em vigor e Brasil avança com o PL 2.338/2023",
   "fontes": [
     "https://www.eeas.europa.eu/delegations/brazil/uni%C3%A3o-europeia-regulamenta%C3%A7%C3%A3o-da-intelig%C3%AAncia-artificial-visa-equilibrar-prote%C3%A7%C3%A3o-contra-riscos-com_pti",
     "https://www.barbieriadvogados.com/regulamentacao-inteligencia-artificial-brasil/",
     "https://blog.ibe.ia.br/blog/big-techs-no-brasil/"
   ],
+  "legenda": "O AI Act da União Europeia passou a proibir por lei certos usos de inteligência artificial a partir de 2 de agosto de 2026 (fonte: União Europeia).\nNo Brasil, o PL 2.338/2023 segue o mesmo caminho: classifica sistemas de IA por risco e reforça obrigações em setores como saúde, educação e justiça criminal.\nEm maio de 2026 o país também ampliou a responsabilização das big techs por conteúdo ilegal — incluindo o que é gerado por IA.\nSalva esse post pra explicar pra alguém que \"IA não tem regra nenhuma\" — já tem, e está mudando rápido.\nVocê acha que a regulação brasileira está andando rápido o suficiente?",
+  "hashtags": ["#inteligenciaartificial", "#regulacaodeia", "#euaiact", "#pl2338", "#leidaianobrasil"],
   "slides": [
     {
-      "index": 1,
+      "id": "01",
+      "type": "hook",
+      "layout": "texto",
       "tag": "REGULAÇÃO",
-      "data_slide": "02/08/2026",
-      "title": "A União Europeia começou a proibir por lei certos usos de IA",
-      "body": "O AI Act europeu passou a valer em 2 de agosto de 2026, banindo sistemas classificados como \"risco inaceitável\" pra direitos fundamentais.",
-      "layout": "texto"
+      "title": "A Europa começou a proibir por lei certos usos de IA.",
+      "body": "O AI Act passou a valer em 2 de agosto de 2026, banindo sistemas classificados como \"risco inaceitável\".",
+      "fonte": "União Europeia"
     },
     {
-      "index": 2,
-      "tag": "CONTEXTO",
-      "title": "O Brasil está atrás — mas correndo",
-      "body": "O PL 2.338/2023 classifica sistemas de IA pelo risco que representam. Risco inaceitável fica proibido; alto risco (saúde, educação, justiça criminal, emprego, infraestrutura crítica) passa a ter obrigações reforçadas.",
+      "id": "02",
+      "type": "content",
       "layout": "foto",
-      "photo_search": "brazilian congress building dark"
+      "tag": "NO BRASIL",
+      "title": "O país corre atrás com o PL 2.338/2023.",
+      "body": "Classifica sistemas de IA por risco; áreas de alto risco como saúde, educação e justiça criminal ganham obrigações reforçadas.",
+      "fonte": "Congresso Nacional",
+      "photo_search": "congresso nacional brasilia dusk",
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Congresso_Nacional_%2829018778513%29.jpg/1920px-Congresso_Nacional_%2829018778513%29.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Congresso_Nacional_(29018778513).jpg"
     },
     {
-      "index": 3,
-      "tag": "CONTEXTO",
-      "title": "Big techs também entram na régua",
-      "body": "Em maio de 2026 o Brasil ampliou, por decreto, a responsabilização de plataformas digitais por conteúdo ilegal — incluindo o que é gerado ou recomendado por IA.",
-      "layout": "texto"
+      "id": "03",
+      "type": "content",
+      "layout": "texto",
+      "tag": "BIG TECHS TAMBÉM",
+      "title": "Plataformas passam a responder por conteúdo ilegal gerado por IA.",
+      "body": "Um decreto de maio de 2026 ampliou a responsabilização das big techs no Brasil.",
+      "fonte": "Governo Federal"
     },
     {
-      "index": 4,
+      "id": "04",
+      "type": "content",
+      "layout": "texto",
       "tag": "POR QUE IMPORTA",
-      "title": "A mesma plataforma que hospeda também decide por você",
-      "body": "Hoje o app que você usa recomenda, resume, responde, modera e cria conteúdo com IA. A régua de risco decide o que essas empresas podem ou não automatizar sobre sua vida.",
-      "layout": "texto"
+      "title": "A mesma plataforma que hospeda também decide por você.",
+      "body": "Hoje o app que você usa recomenda, resume, modera e cria conteúdo com IA.",
+      "fonte": ""
     },
     {
-      "index": 5,
-      "tag": "FONTE",
-      "title": "Fonte",
-      "body": "Regulamento (UE) 2024/1689 (AI Act), vigência de proibições a partir de 02/08/2026 · PL 2.338/2023, Congresso Nacional.",
-      "layout": "texto"
+      "id": "05",
+      "type": "content",
+      "layout": "texto",
+      "tag": "O ALCANCE",
+      "title": "As proibições europeias valem também fora da Europa.",
+      "body": "Se a empresa oferece um serviço de IA pra usuários na Europa, a regra alcança ela também.",
+      "fonte": "União Europeia"
     },
     {
-      "index": 6,
-      "tag": "CTA",
-      "title": "E você, sabia que já existe essa régua?",
-      "body": "Salva esse post pra explicar pra alguém da próxima vez que disserem \"IA não tem regra nenhuma\".",
-      "layout": "texto"
+      "id": "06",
+      "type": "cta",
+      "layout": "texto",
+      "tag": "SALVA ISSO",
+      "title": "IA já tem regra — e está mudando rápido.",
+      "body": "Salva esse post pra explicar pra alguém que acha que não existe lei nenhuma sobre isso.",
+      "fonte": ""
     }
-  ],
-  "legenda": "O AI Act da União Europeia passou a proibir por lei certos usos de inteligência artificial a partir de 2 de agosto de 2026 (fonte: União Europeia).\nNo Brasil, o PL 2.338/2023 segue o mesmo caminho: classifica sistemas de IA por risco e reforça obrigações em setores como saúde, educação e justiça criminal.\nEm maio de 2026 o país também ampliou a responsabilização das big techs por conteúdo ilegal — incluindo o que é gerado por IA.\nSalva esse post pra explicar pra alguém que 'IA não tem regra nenhuma' — já tem, e está mudando rápido.\nVocê acha que a regulação brasileira está andando rápido o suficiente?",
-  "hashtags": ["#inteligenciaartificial", "#regulacaodeia", "#euaiact", "#pl2338", "#leidaianobrasil"]
+  ]
 }

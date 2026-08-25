@@ -42,7 +42,9 @@
   "capa": {
     "topbar": "VIGILÂNCIA E IA",
     "titulo": "A IA errou. Ela pagou o preço.",
-    "photo_search": "surveillance camera dark silhouette woman"
+    "photo_search": "cctv surveillance camera street dark",
+    "photo_url": "https://upload.wikimedia.org/wikipedia/commons/f/fd/CCTV_Camera_on_Pershore_High_Street_-_geograph.org.uk_-_4446441.jpg",
+    "commons_page": "https://commons.wikimedia.org/wiki/File:CCTV_Camera_on_Pershore_High_Street_-_geograph.org.uk_-_4446441.jpg"
   },
   "legenda": "Angela Lipps ficou quase 6 meses presa nos EUA por um erro de reconhecimento facial por IA — enquanto estava a quase 2 mil km do crime (fontes: O Tempo, TabNews).\nO Brasil corre pra regular o uso de IA em decisões de alto risco, como segurança pública, antes que casos assim se repitam por aqui.\nSalva esse vídeo e manda pra alguém que acha que 'é um robô que decidiu, então é neutro'.\nVocê confiaria numa IA pra decidir se alguém é culpado?",
   "hashtags": ["#vigilancia", "#reconhecimentofacial", "#erroDeIA", "#prisaoinjusta", "#iaeprivacidade"],

@@ -1,64 +1,95 @@
 {
   "tipo": "alerta",
   "categoria": "Cibersegurança e golpes digitais",
-  "data": "2026-08-25",
+  "tema": "Golpe da voz clonada por IA usada pra pedir Pix fingindo emergência familiar",
   "formato": "foto",
-  "titulo_interno": "Golpe da voz clonada por IA",
   "fontes": [
     "https://diariodegoias.com.br/golpe-com-voz-clonada-por-ia-e-falso-familiar-avanca-em-2026-especialista-faz-alerta/541603/",
     "https://decripte.com.br/protecao/clonagem-de-voz-deepfake-golpe",
     "https://exame.com/tecnologia/examelab/como-identificar-golpes-com-ia-deepfake-de-voz-clonagem-e-mensagens-falsas/"
   ],
+  "legenda": "Golpe da voz clonada por IA já é apontado como um dos principais riscos de fraude no Brasil em 2026 (fonte: Serpro/Banco do Brasil, Febraban Tech).\nCom 15 segundos de áudio público, a IA recria sua voz — e o golpista liga fingindo uma emergência pra pedir Pix na hora.\nA única defesa que funciona contra qualquer qualidade de deepfake: uma palavra-código combinada com a família.\nSalva esse post e manda pra quem você ama — principalmente quem tem contato de idoso salvo no WhatsApp.\nVocê já recebeu alguma ligação suspeita assim? Conta aqui embaixo.",
+  "hashtags": ["#ciberseguranca", "#golpedigital", "#clonagemdevoz", "#deepfake", "#comoevitargolpedeia"],
   "slides": [
     {
-      "index": 1,
-      "tag": "ALERTA",
-      "text": "Seu \"filho\" ligou chorando, pedindo Pix urgente? Pode não ser ele. É a voz dele clonada por IA — e leva só 15 segundos de áudio pra fazer isso.",
-      "photo_search": "hands holding smartphone dark emergency call"
+      "id": "01",
+      "type": "hook",
+      "topbar": "ALERTA",
+      "title": "Seu \"filho\" ligou chorando, pedindo Pix urgente?",
+      "body": "Pode não ser ele. É a voz clonada por IA — e leva só 15 segundos de áudio pra fazer isso.",
+      "photo_search": "cybersecurity padlock concept dark",
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Cybersecurity.png/1920px-Cybersecurity.png",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Cybersecurity.png"
     },
     {
-      "index": 2,
-      "tag": "ALERTA",
-      "text": "O golpe: a IA pega qualquer áudio público seu — um story, um vídeo, uma ligação gravada — e recria sua voz quase perfeita.",
-      "photo_search": "sound waveform dark screen audio"
+      "id": "02",
+      "type": "content",
+      "topbar": "COMO FUNCIONA",
+      "title": "A IA recria sua voz com qualquer áudio público seu.",
+      "body": "Um story, um vídeo, uma ligação gravada — 15 segundos já bastam pra clonar quase perfeitamente.",
+      "photo_search": "fiber optic cables glowing dark",
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Optic_fiber_cables_03.jpg/1920px-Optic_fiber_cables_03.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Optic_fiber_cables_03.jpg"
     },
     {
-      "index": 3,
-      "tag": "ALERTA",
-      "text": "O golpista liga fingindo uma emergência e pede transferência na hora, antes que você pare pra pensar direito.",
-      "photo_search": "person panicking phone call dark"
+      "id": "03",
+      "type": "content",
+      "topbar": "O GOLPE",
+      "title": "O golpista liga fingindo uma emergência.",
+      "body": "Pede transferência na hora, antes que você pare pra pensar direito.",
+      "photo_search": "keyboard typing closeup dark",
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Keyboard_Closeup_01_%28203533167%29.jpeg/1920px-Keyboard_Closeup_01_%28203533167%29.jpeg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Keyboard_Closeup_01_(203533167).jpeg"
     },
     {
-      "index": 4,
-      "tag": "ALERTA",
-      "text": "Em versões mais avançadas, o golpe já replica até o rosto em videochamada, usando fotos que você mesmo postou nas redes sociais.",
-      "photo_search": "video call screen dark deepfake concept"
+      "id": "04",
+      "type": "content",
+      "topbar": "AINDA PIOR",
+      "title": "Em versões avançadas, o golpe replica até o rosto.",
+      "body": "Em videochamada, usando fotos que você mesmo postou nas redes sociais.",
+      "photo_search": "cctv camera closeup dark",
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/CCTV_camera_on_Round_Church_Street%2C_Cambridge.jpg/1920px-CCTV_camera_on_Round_Church_Street%2C_Cambridge.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:CCTV_camera_on_Round_Church_Street,_Cambridge.jpg"
     },
     {
-      "index": 5,
-      "tag": "ALERTA",
-      "text": "Especialistas do Serpro e do Banco do Brasil apontaram esse golpe como um dos principais riscos de fraude do país em 2026, em painel no Febraban Tech.",
-      "photo_search": "bank office dark technology"
+      "id": "05",
+      "type": "content",
+      "topbar": "O TAMANHO DO PROBLEMA",
+      "title": "Já é apontado como um dos principais riscos de 2026.",
+      "body": "Segundo especialistas do Serpro e do Banco do Brasil, em painel realizado no Febraban Tech.",
+      "photo_search": "data center server rack dark",
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Rear_of_rack_at_NERSC_data_center_-_closeup.jpg/1920px-Rear_of_rack_at_NERSC_data_center_-_closeup.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Rear_of_rack_at_NERSC_data_center_-_closeup.jpg"
     },
     {
-      "index": 6,
-      "tag": "PROTEÇÃO",
-      "text": "A defesa que funciona: combine uma PALAVRA-CÓDIGO com sua família — uma palavra que só vocês sabem. Nenhuma IA adivinha isso, por mais perfeita que seja a voz clonada.",
-      "photo_search": "family code word concept dark"
+      "id": "06",
+      "type": "content",
+      "topbar": "PROTEÇÃO",
+      "title": "A defesa que funciona: uma palavra-código.",
+      "body": "Combine com sua família uma palavra que só vocês sabem — nenhuma IA adivinha isso.",
+      "photo_search": "fiber optic connectors closeup dark",
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Optical_fiber_connectors-optical_patch_cable-01ASD.jpg/1920px-Optical_fiber_connectors-optical_patch_cable-01ASD.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Optical_fiber_connectors-optical_patch_cable-01ASD.jpg"
     },
     {
-      "index": 7,
-      "tag": "PROTEÇÃO",
-      "text": "Recebeu uma ligação de emergência pedindo Pix? Desligue e ligue de volta pro número que você já tem salvo. Nunca confie no número que te ligou.",
-      "photo_search": "phone contacts list dark screen"
+      "id": "07",
+      "type": "content",
+      "topbar": "NA DÚVIDA",
+      "title": "Desligue e ligue de volta pro número salvo.",
+      "body": "Nunca confie no número que te ligou pedindo uma emergência.",
+      "photo_search": "keyboard typing closeup dark alternate",
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Keyboard_Closeup_02_%28203533165%29.jpeg/1920px-Keyboard_Closeup_02_%28203533165%29.jpeg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Keyboard_Closeup_02_(203533165).jpeg"
     },
     {
-      "index": 8,
-      "tag": "CTA",
-      "text": "Salva esse post e manda agora pra quem tem contato de pai, mãe ou avó no WhatsApp.",
-      "photo_search": "family whatsapp contact dark theme"
+      "id": "08",
+      "type": "cta",
+      "topbar": "SALVA ISSO",
+      "title": "Isso pode acontecer com alguém que você ama.",
+      "body": "Manda esse post agora pra quem tem contato de pai, mãe ou avó no WhatsApp.",
+      "photo_search": "cctv camera on building dark",
+      "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CCTV_camera_on_the_top_of_the_Trenchard_Street_car_park_-_June_2026.jpg/1920px-CCTV_camera_on_the_top_of_the_Trenchard_Street_car_park_-_June_2026.jpg",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:CCTV_camera_on_the_top_of_the_Trenchard_Street_car_park_-_June_2026.jpg"
     }
-  ],
-  "legenda": "Golpe da voz clonada por IA já é apontado como um dos principais riscos de fraude no Brasil em 2026 (fonte: Serpro/Banco do Brasil, Febraban Tech).\nCom 15 segundos de áudio público, a IA recria sua voz — e o golpista liga fingindo uma emergência pra pedir Pix na hora.\nA única defesa que funciona contra qualquer qualidade de deepfake: uma palavra-código combinada com a família.\nSalva esse post e manda pra quem você ama — principalmente quem tem contato de idoso salvo no WhatsApp.\nVocê já recebeu alguma ligação suspeita assim? Conta aqui embaixo.",
-  "hashtags": ["#ciberseguranca", "#golpedigital", "#clonagemdevoz", "#deepfake", "#comoevitargolpedeia"]
+  ]
 }

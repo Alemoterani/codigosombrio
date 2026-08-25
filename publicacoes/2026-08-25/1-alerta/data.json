@@ -1,0 +1,64 @@
+{
+  "tipo": "alerta",
+  "categoria": "Cibersegurança e golpes digitais",
+  "data": "2026-08-25",
+  "formato": "foto",
+  "titulo_interno": "Golpe da voz clonada por IA",
+  "fontes": [
+    "https://diariodegoias.com.br/golpe-com-voz-clonada-por-ia-e-falso-familiar-avanca-em-2026-especialista-faz-alerta/541603/",
+    "https://decripte.com.br/protecao/clonagem-de-voz-deepfake-golpe",
+    "https://exame.com/tecnologia/examelab/como-identificar-golpes-com-ia-deepfake-de-voz-clonagem-e-mensagens-falsas/"
+  ],
+  "slides": [
+    {
+      "index": 1,
+      "tag": "ALERTA",
+      "text": "Seu \"filho\" ligou chorando, pedindo Pix urgente? Pode não ser ele. É a voz dele clonada por IA — e leva só 15 segundos de áudio pra fazer isso.",
+      "photo_search": "hands holding smartphone dark emergency call"
+    },
+    {
+      "index": 2,
+      "tag": "ALERTA",
+      "text": "O golpe: a IA pega qualquer áudio público seu — um story, um vídeo, uma ligação gravada — e recria sua voz quase perfeita.",
+      "photo_search": "sound waveform dark screen audio"
+    },
+    {
+      "index": 3,
+      "tag": "ALERTA",
+      "text": "O golpista liga fingindo uma emergência e pede transferência na hora, antes que você pare pra pensar direito.",
+      "photo_search": "person panicking phone call dark"
+    },
+    {
+      "index": 4,
+      "tag": "ALERTA",
+      "text": "Em versões mais avançadas, o golpe já replica até o rosto em videochamada, usando fotos que você mesmo postou nas redes sociais.",
+      "photo_search": "video call screen dark deepfake concept"
+    },
+    {
+      "index": 5,
+      "tag": "ALERTA",
+      "text": "Especialistas do Serpro e do Banco do Brasil apontaram esse golpe como um dos principais riscos de fraude do país em 2026, em painel no Febraban Tech.",
+      "photo_search": "bank office dark technology"
+    },
+    {
+      "index": 6,
+      "tag": "PROTEÇÃO",
+      "text": "A defesa que funciona: combine uma PALAVRA-CÓDIGO com sua família — uma palavra que só vocês sabem. Nenhuma IA adivinha isso, por mais perfeita que seja a voz clonada.",
+      "photo_search": "family code word concept dark"
+    },
+    {
+      "index": 7,
+      "tag": "PROTEÇÃO",
+      "text": "Recebeu uma ligação de emergência pedindo Pix? Desligue e ligue de volta pro número que você já tem salvo. Nunca confie no número que te ligou.",
+      "photo_search": "phone contacts list dark screen"
+    },
+    {
+      "index": 8,
+      "tag": "CTA",
+      "text": "Salva esse post e manda agora pra quem tem contato de pai, mãe ou avó no WhatsApp.",
+      "photo_search": "family whatsapp contact dark theme"
+    }
+  ],
+  "legenda": "Golpe da voz clonada por IA já é apontado como um dos principais riscos de fraude no Brasil em 2026 (fonte: Serpro/Banco do Brasil, Febraban Tech).\nCom 15 segundos de áudio público, a IA recria sua voz — e o golpista liga fingindo uma emergência pra pedir Pix na hora.\nA única defesa que funciona contra qualquer qualidade de deepfake: uma palavra-código combinada com a família.\nSalva esse post e manda pra quem você ama — principalmente quem tem contato de idoso salvo no WhatsApp.\nVocê já recebeu alguma ligação suspeita assim? Conta aqui embaixo.",
+  "hashtags": ["#ciberseguranca", "#golpedigital", "#clonagemdevoz", "#deepfake", "#comoevitargolpedeia"]
+}

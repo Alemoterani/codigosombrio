@@ -1,0 +1,50 @@
+{
+  "tipo": "reels",
+  "categoria": "Vigilância e privacidade",
+  "data": "2026-08-25",
+  "titulo_interno": "A IA errou. Ela pagou o preço.",
+  "caso_real": "Angela Lipps, Tennessee (EUA) — presa por reconhecimento facial por IA",
+  "fontes": [
+    "https://www.otempo.com.br/mundo/2026/3/17/reconhecimento-facial-por-ia-prende-mulher-inocente-por-6-meses",
+    "https://www.tabnews.com.br/NewsletterOficial/mulher-de-50-anos-passa-quase-seis-meses-na-prisao-apos-ia-identifica-la-erroneamente-como-suspeita-de-crime",
+    "https://tugatech.com.pt/t85504-reconhecimento-facial-por-ia-causa-prisoes-erradas-e-destroi-vidas-nos-eua"
+  ],
+  "roteiro_blocos": [
+    {
+      "id": "b1",
+      "texto": "Uma IA de reconhecimento facial olhou pra ela e decidiu: era ela a suspeita. Só que era a pessoa errada."
+    },
+    {
+      "id": "b2",
+      "texto": "Angela Lipps morava no Tennessee, longe de tudo. Câmeras de segurança em Fargo, Dakota do Norte, registraram uma mulher sacando dinheiro com documentos falsos."
+    },
+    {
+      "id": "b3",
+      "texto": "A polícia rodou as imagens num sistema de reconhecimento facial por IA. O software apontou o nome de Angela. Um agente comparou fotos das redes sociais dela e achou parecido o suficiente."
+    },
+    {
+      "id": "b4",
+      "texto": "Isso bastou pra um mandado de prisão. Agentes federais foram até a casa dela e a prenderam sob a mira de armas, enquanto ela cuidava de quatro crianças."
+    },
+    {
+      "id": "b5",
+      "texto": "Ela ficou presa por quase seis meses — até o advogado provar, com extrato bancário, que ela estava a quase dois mil quilômetros do crime na hora em que ele aconteceu."
+    },
+    {
+      "id": "b6",
+      "texto": "Quando saiu, tinha perdido a casa, o carro e o cachorro. Tudo por causa de um algoritmo que errou, e de gente que confiou demais nele."
+    },
+    {
+      "id": "b7",
+      "texto": "Reconhecimento facial por IA já erra prisão nos Estados Unidos, e o Brasil está correndo pra regular isso agora. Salva esse vídeo e segue pra entender o que muda."
+    }
+  ],
+  "capa": {
+    "topbar": "VIGILÂNCIA E IA",
+    "titulo": "A IA errou. Ela pagou o preço.",
+    "photo_search": "surveillance camera dark silhouette woman"
+  },
+  "legenda": "Angela Lipps ficou quase 6 meses presa nos EUA por um erro de reconhecimento facial por IA — enquanto estava a quase 2 mil km do crime (fontes: O Tempo, TabNews).\nO Brasil corre pra regular o uso de IA em decisões de alto risco, como segurança pública, antes que casos assim se repitam por aqui.\nSalva esse vídeo e manda pra alguém que acha que 'é um robô que decidiu, então é neutro'.\nVocê confiaria numa IA pra decidir se alguém é culpado?",
+  "hashtags": ["#vigilancia", "#reconhecimentofacial", "#erroDeIA", "#prisaoinjusta", "#iaeprivacidade"],
+  "nota_producao": "PENDENTE: pipeline de geração (TTS single-call + b-roll + legenda queimada, ver scripts/REELS.md) ainda não existe neste repositório. Este JSON é o roteiro pronto para quando o motor for construído."
+}

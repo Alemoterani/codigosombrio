@@ -1,0 +1,16 @@
+# Saida gerada e regeneravel (imagens finais, video, arquivos de trabalho)
+publicacoes/**/*.png
+publicacoes/**/video/
+publicacoes/**/imagem/
+publicacoes/**/_html/
+publicacoes/**/_assets/
+publicacoes/**/_work/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Sistema
+.DS_Store
+Thumbs.db

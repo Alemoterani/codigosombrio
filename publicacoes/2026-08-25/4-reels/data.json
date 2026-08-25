@@ -1,50 +1,88 @@
 {
   "tipo": "reels",
   "categoria": "Vigilância e privacidade",
-  "data": "2026-08-25",
-  "titulo_interno": "A IA errou. Ela pagou o preço.",
-  "caso_real": "Angela Lipps, Tennessee (EUA) — presa por reconhecimento facial por IA",
-  "fontes": [
+  "tema": "Reconhecimento facial por IA leva mulher inocente à prisão por quase 6 meses nos EUA",
+  "viral_reason": "Caso real, checável e com reviravolta clara (presa por engano de algoritmo, solta só com prova bancária) -- gera indignação e o CTA de proteção/regulação converte isso em salvamento e compartilhamento, não só susto.",
+  "duracao_segundos": 74.93,
+  "narracao": {
+    "texto": "Uma IA de reconhecimento facial olhou pra ela e decidiu: era ela a suspeita. Só que era a pessoa errada. Angela Lipps morava no Tennessee, longe de tudo. Câmeras de segurança em Fargo, Dakota do Norte, registraram uma mulher sacando dinheiro com documentos falsos. A polícia rodou as imagens num sistema de reconhecimento facial por IA. O software apontou o nome de Angela. Um agente comparou fotos das redes sociais dela e achou parecido o suficiente. Isso bastou pra um mandado de prisão. Agentes federais foram até a casa dela e a prenderam sob a mira de armas, enquanto ela cuidava de quatro crianças. Ela ficou presa por quase seis meses, até o advogado provar, com extrato bancário, que ela estava a quase dois mil quilômetros do crime na hora em que ele aconteceu. Quando saiu, tinha perdido a casa, o carro e o cachorro. Tudo por causa de um algoritmo que errou, e de gente que confiou demais nele. Reconhecimento facial por IA já erra prisão nos Estados Unidos, e o Brasil está correndo pra regular isso agora. Salva esse vídeo e segue pra entender o que muda.",
+    "voz": "pt-BR-AntonioNeural",
+    "velocidade": "+6%"
+  },
+  "legendas_na_tela": "queimadas no video, sincronizadas via WordBoundary do TTS (uma unica chamada), blocos de ate 4 palavras, uppercase, estilo ASS branco com contorno preto",
+  "estrutura_visual": [
+    {
+      "trecho_s": "0.00-8.40",
+      "conteudo": "cadeado/circuito digital -- gancho: algoritmo que decide errado",
+      "fonte_foto": "Wikimedia Commons, File:Cybersecurity.png",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Cybersecurity.png"
+    },
+    {
+      "trecho_s": "8.40-18.84",
+      "conteudo": "caixa eletrônico à noite -- cena do crime real (saque com documento falso)",
+      "fonte_foto": "Wikimedia Commons",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:ATM_not_working_at_night.jpg"
+    },
+    {
+      "trecho_s": "18.84-32.70",
+      "conteudo": "rack de servidor -- o sistema de reconhecimento facial rodando as imagens",
+      "fonte_foto": "Wikimedia Commons",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Rear_of_rack_at_NERSC_data_center_-_closeup.jpg"
+    },
+    {
+      "trecho_s": "32.70-41.06",
+      "conteudo": "giroflex de viatura -- a prisão sob mira de armas",
+      "fonte_foto": "Wikimedia Commons",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Red_and_Blue_Lights_-_BLM_4th_Precinct_Minneapolis_Police_(23493416345).jpg"
+    },
+    {
+      "trecho_s": "41.06-51.95",
+      "conteudo": "grades de cela -- os quase seis meses presa",
+      "fonte_foto": "Wikimedia Commons",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Cell_bars_from_the_Marshalsea_prison,_Charles_Dickens_Museum.jpg"
+    },
+    {
+      "trecho_s": "51.95-60.83",
+      "conteudo": "casa -- o que ela perdeu enquanto estava presa",
+      "fonte_foto": "Wikimedia Commons",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Rural_property_for_sale_Indiana)_-_DPLA_-_5f506b37e1c9784af5ea1e9384f8331b.jpg"
+    },
+    {
+      "trecho_s": "60.83-71.93",
+      "conteudo": "estátua da Justiça -- CTA: regulação chegando no Brasil",
+      "fonte_foto": "Wikimedia Commons",
+      "commons_page": "https://commons.wikimedia.org/wiki/File:Close-up_of_Lady_Justice_statue_holding_scales,_symbolizing_justice_and_fairness.jpg"
+    },
+    {
+      "trecho_s": "71.93-74.93",
+      "conteudo": "card de encerramento: logo (se existir) + handle sobre fundo preto",
+      "fonte": "gerado localmente (scripts/gerar_reels.py)"
+    }
+  ],
+  "capa": {
+    "arquivo": "capa.png",
+    "topbar": "VIGILÂNCIA E IA",
+    "titulo": "A IA errou. Ela pagou o preço.",
+    "foto_gancho": "Wikimedia Commons, File:CCTV_Camera_on_Pershore_High_Street_-_geograph.org.uk_-_4446441.jpg",
+    "gerador": "scripts/reels-capa/gerar_capa.py"
+  },
+  "fontes_do_fato": [
     "https://www.otempo.com.br/mundo/2026/3/17/reconhecimento-facial-por-ia-prende-mulher-inocente-por-6-meses",
     "https://www.tabnews.com.br/NewsletterOficial/mulher-de-50-anos-passa-quase-seis-meses-na-prisao-apos-ia-identifica-la-erroneamente-como-suspeita-de-crime",
     "https://tugatech.com.pt/t85504-reconhecimento-facial-por-ia-causa-prisoes-erradas-e-destroi-vidas-nos-eua"
   ],
-  "roteiro_blocos": [
-    {
-      "id": "b1",
-      "texto": "Uma IA de reconhecimento facial olhou pra ela e decidiu: era ela a suspeita. Só que era a pessoa errada."
-    },
-    {
-      "id": "b2",
-      "texto": "Angela Lipps morava no Tennessee, longe de tudo. Câmeras de segurança em Fargo, Dakota do Norte, registraram uma mulher sacando dinheiro com documentos falsos."
-    },
-    {
-      "id": "b3",
-      "texto": "A polícia rodou as imagens num sistema de reconhecimento facial por IA. O software apontou o nome de Angela. Um agente comparou fotos das redes sociais dela e achou parecido o suficiente."
-    },
-    {
-      "id": "b4",
-      "texto": "Isso bastou pra um mandado de prisão. Agentes federais foram até a casa dela e a prenderam sob a mira de armas, enquanto ela cuidava de quatro crianças."
-    },
-    {
-      "id": "b5",
-      "texto": "Ela ficou presa por quase seis meses — até o advogado provar, com extrato bancário, que ela estava a quase dois mil quilômetros do crime na hora em que ele aconteceu."
-    },
-    {
-      "id": "b6",
-      "texto": "Quando saiu, tinha perdido a casa, o carro e o cachorro. Tudo por causa de um algoritmo que errou, e de gente que confiou demais nele."
-    },
-    {
-      "id": "b7",
-      "texto": "Reconhecimento facial por IA já erra prisão nos Estados Unidos, e o Brasil está correndo pra regular isso agora. Salva esse vídeo e segue pra entender o que muda."
-    }
-  ],
-  "capa": {
-    "topbar": "VIGILÂNCIA E IA",
-    "titulo": "A IA errou. Ela pagou o preço.",
-    "photo_search": "surveillance camera dark silhouette woman"
+  "pipeline_tecnico": {
+    "narracao": "edge-tts (Python), boundary=WordBoundary para sincronismo de legenda, uma unica chamada",
+    "b_roll": "fotos reais do Wikimedia Commons (licenca aberta) animadas com FFmpeg zoompan (efeito Ken Burns), sem dependencia de API de video paga",
+    "legenda": "ASS gerado a partir dos timestamps, queimado com o filtro subtitles do FFmpeg",
+    "video": "FFmpeg: crop+zoompan de cada segmento para 1080x1920, concat via filter_complex, mux de audio com apad para preencher o card final em silencio",
+    "script": "scripts/gerar_reels.py, a partir de scripts/post-4-reels.json"
   },
-  "legenda": "Angela Lipps ficou quase 6 meses presa nos EUA por um erro de reconhecimento facial por IA — enquanto estava a quase 2 mil km do crime (fontes: O Tempo, TabNews).\nO Brasil corre pra regular o uso de IA em decisões de alto risco, como segurança pública, antes que casos assim se repitam por aqui.\nSalva esse vídeo e manda pra alguém que acha que 'é um robô que decidiu, então é neutro'.\nVocê confiaria numa IA pra decidir se alguém é culpado?",
-  "hashtags": ["#vigilancia", "#reconhecimentofacial", "#erroDeIA", "#prisaoinjusta", "#iaeprivacidade"],
-  "nota_producao": "PENDENTE: pipeline de geração (TTS single-call + b-roll + legenda queimada, ver scripts/REELS.md) ainda não existe neste repositório. Este JSON é o roteiro pronto para quando o motor for construído."
+  "hashtags": [
+    "#vigilancia",
+    "#reconhecimentofacial",
+    "#erroDeIA",
+    "#prisaoinjusta",
+    "#iaeprivacidade"
+  ]
 }
